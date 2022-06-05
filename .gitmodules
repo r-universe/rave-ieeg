@@ -85,3 +85,8 @@
 	url = https://github.com/LeoraCramer/ravecorrelation
 	shallow = true
 	registered = true
+[submodule "visNetwork"]
+	path = visNetwork
+	url = https://github.com/datastorm-open/visNetwork
+	shallow = true
+	registered = false
