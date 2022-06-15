@@ -12,6 +12,25 @@
     "from": "raveclusters"
   },
   {
+    "package": "rave",
+    "url": "https://github.com/beauchamplab/rave",
+    "via": ["ravecorrelation"],
+    "from": "ravecorrelation"
+  },
+  {
+    "package": "rave",
+    "url": "https://github.com/beauchamplab/rave",
+    "via": ["ravecorrelation", "ravebuiltins"],
+    "from": "ravecorrelation"
+  },
+  {
+    "package": "ravebuiltins",
+    "url": "https://github.com/beauchamplab/ravebuiltins",
+    "via": ["ravecorrelation"],
+    "branch": "migrate2",
+    "from": "ravecorrelation"
+  },
+  {
     "package": "rutabaga",
     "url": "https://github.com/dipterix/rutabaga",
     "via": ["ravebuiltins"],
@@ -22,6 +41,18 @@
     "url": "https://github.com/dipterix/rutabaga",
     "via": ["raveclusters"],
     "from": "raveclusters"
+  },
+  {
+    "package": "rutabaga",
+    "url": "https://github.com/dipterix/rutabaga",
+    "via": ["ravecorrelation", "ravebuiltins"],
+    "from": "ravecorrelation"
+  },
+  {
+    "package": "rutabaga",
+    "url": "https://github.com/dipterix/rutabaga",
+    "via": ["ravecorrelation"],
+    "from": "ravecorrelation"
   },
   {
     "package": "visNetwork",
