@@ -1,0 +1,14 @@
+[
+  {
+    "package": "rave",
+    "url": "https://github.com/beauchamplab/rave",
+    "via": ["ravebuiltins"],
+    "from": "ravebuiltins"
+  },
+  {
+    "package": "rutabaga",
+    "url": "https://github.com/dipterix/rutabaga",
+    "via": ["ravebuiltins"],
+    "from": "ravebuiltins"
+  }
+]
