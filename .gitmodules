@@ -1,5 +1,87 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rave-ieeg/universe
 	shallow = true
 	branch = HEAD
+[submodule "ravemanager"]
+	path = ravemanager
+	url = https://github.com/dipterix/ravemanager
+	shallow = true
+	registered = true
+[submodule "filearray"]
+	path = filearray
+	url = https://github.com/dipterix/filearray
+	shallow = true
+	registered = true
+[submodule "dipsaus"]
+	path = dipsaus
+	url = https://github.com/dipterix/dipsaus
+	shallow = true
+	registered = true
+[submodule "shidashi"]
+	path = shidashi
+	url = https://github.com/dipterix/shidashi
+	shallow = true
+	registered = true
+[submodule "threeBrain"]
+	path = threeBrain
+	url = https://github.com/dipterix/threeBrain
+	shallow = true
+	registered = true
+[submodule "rpymat"]
+	path = rpymat
+	url = https://github.com/dipterix/rpymat
+	shallow = true
+	registered = true
+[submodule "raveio"]
+	path = raveio
+	url = https://github.com/beauchamplab/raveio
+	shallow = true
+	registered = true
+[submodule "ravetools"]
+	path = ravetools
+	url = https://github.com/dipterix/ravetools
+	shallow = true
+	registered = true
+[submodule "ravedash"]
+	path = ravedash
+	url = https://github.com/dipterix/ravedash
+	shallow = true
+	registered = true
+[submodule "readNSx"]
+	path = readNSx
+	url = https://github.com/dipterix/readNSx
+	shallow = true
+	registered = true
+[submodule "rpyANTs"]
+	path = rpyANTs
+	url = https://github.com/dipterix/rpyANTs
+	shallow = true
+	registered = true
+[submodule "rutabaga"]
+	path = rutabaga
+	url = https://github.com/dipterix/rutabaga
+	shallow = true
+	registered = true
+[submodule "rave"]
+	path = rave
+	url = https://github.com/beauchamplab/rave
+	shallow = true
+	registered = true
+[submodule "ravebuiltins"]
+	path = ravebuiltins
+	url = https://github.com/beauchamplab/ravebuiltins
+	shallow = true
+	branch = migrate2
+	registered = true
+[submodule "raveclusters"]
+	path = raveclusters
+	url = https://github.com/z94007/raveclusters
+	shallow = true
+	branch = rave2.0-pipeline
+	registered = true
+[submodule "ravecorrelation"]
+	path = ravecorrelation
+	url = https://github.com/LeoraCramer/ravecorrelation
+	shallow = true
+	registered = true

@@ -1,0 +1,60 @@
+[
+  {
+    "package": "ravemanager"
+  },
+  {
+    "package": "filearray",
+    "oncran": true
+  },
+  {
+    "package": "dipsaus",
+    "oncran": true
+  },
+  {
+    "package": "shidashi",
+    "oncran": true
+  },
+  {
+    "package": "threeBrain",
+    "oncran": true
+  },
+  {
+    "package": "rpymat",
+    "oncran": true
+  },
+  {
+    "package": "raveio",
+    "oncran": true
+  },
+  {
+    "package": "ravetools",
+    "oncran": true
+  },
+  {
+    "package": "ravedash",
+    "oncran": true
+  },
+  {
+    "package": "readNSx",
+    "oncran": true
+  },
+  {
+    "package": "rpyANTs",
+    "oncran": false
+  },
+  {
+    "package": "rutabaga"
+  },
+  {
+    "package": "rave"
+  },
+  {
+    "package": "ravebuiltins"
+  },
+  {
+    "package": "raveclusters"
+  },
+  {
+    "package": "ravecorrelation"
+  }
+]
