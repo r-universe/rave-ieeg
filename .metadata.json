@@ -40,7 +40,7 @@
   },
   {
     "package": "rpyANTs",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rutabaga"
