@@ -52,6 +52,9 @@
     "package": "ravebuiltins"
   },
   {
+    "package": "clusterCrit"
+  },
+  {
     "package": "raveclusters"
   },
   {

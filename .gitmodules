@@ -74,6 +74,11 @@
 	shallow = true
 	branch = migrate2
 	registered = true
+[submodule "clusterCrit"]
+	path = clusterCrit
+	url = https://github.com/rave-ieeg/clusterCrit
+	shallow = true
+	registered = true
 [submodule "raveclusters"]
 	path = raveclusters
 	url = https://github.com/z94007/raveclusters
