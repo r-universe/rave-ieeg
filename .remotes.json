@@ -31,6 +31,12 @@
     "from": "ravecorrelation"
   },
   {
+    "package": "rpymat",
+    "url": "https://github.com/dipterix/rpymat",
+    "via": ["rnwb"],
+    "from": "rnwb"
+  },
+  {
     "package": "rutabaga",
     "url": "https://github.com/dipterix/rutabaga",
     "via": ["ravebuiltins"],
