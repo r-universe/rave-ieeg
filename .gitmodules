@@ -40,6 +40,9 @@
 [submodule "readNSx"]
 	path = readNSx
 	url = https://github.com/dipterix/readNSx
+[submodule "rnwb"]
+	path = rnwb
+	url = https://github.com/dipterix/rnwb
 [submodule "rpyANTs"]
 	path = rpyANTs
 	url = https://github.com/dipterix/rpyANTs
