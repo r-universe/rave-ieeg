@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rave-ieeg/universe
+	url = https://github.com/rave-ieeg/rave-ieeg.r-universe.dev
 	branch = HEAD
 [submodule "clusterCrit"]
 	path = clusterCrit
