@@ -11,6 +11,9 @@
 [submodule "filearray"]
 	path = filearray
 	url = https://github.com/dipterix/filearray
+[submodule "ieegio"]
+	path = ieegio
+	url = https://github.com/dipterix/ieegio
 [submodule "rave"]
 	path = rave
 	url = https://github.com/beauchamplab/rave
