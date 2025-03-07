@@ -37,6 +37,9 @@
 [submodule "ravemanager"]
 	path = ravemanager
 	url = https://github.com/dipterix/ravemanager
+[submodule "ravepipeline"]
+	path = ravepipeline
+	url = https://github.com/dipterix/ravepipeline
 [submodule "ravetools"]
 	path = ravetools
 	url = https://github.com/dipterix/ravetools
