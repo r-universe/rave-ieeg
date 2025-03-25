@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/rave-ieeg/rave-ieeg.r-universe.dev
 	branch = HEAD
+[submodule "bidsr"]
+	path = bidsr
+	url = https://github.com/dipterix/bidsr
 [submodule "clusterCrit"]
 	path = clusterCrit
 	url = https://github.com/rave-ieeg/clusterCrit
