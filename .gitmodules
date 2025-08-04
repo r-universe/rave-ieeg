@@ -28,6 +28,9 @@
 	path = raveclusters
 	url = https://github.com/z94007/raveclusters
 	branch = rave2.0-pipeline
+[submodule "ravecore"]
+	path = ravecore
+	url = https://github.com/rave-ieeg/ravecore
 [submodule "ravecorrelation"]
 	path = ravecorrelation
 	url = https://github.com/LeoraCramer/ravecorrelation
