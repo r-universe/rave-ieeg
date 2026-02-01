@@ -70,7 +70,3 @@
 [submodule "threeBrain"]
 	path = threeBrain
 	url = https://github.com/dipterix/threeBrain
-[submodule "visNetwork"]
-	path = visNetwork
-	url = https://github.com/datastorm-open/visNetwork
-	registered = false
