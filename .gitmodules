@@ -23,7 +23,7 @@
 [submodule "ravebuiltins"]
 	path = ravebuiltins
 	url = https://github.com/beauchamplab/ravebuiltins
-	branch = migrate2
+	branch = migrate3
 [submodule "raveclusters"]
 	path = raveclusters
 	url = https://github.com/z94007/raveclusters
