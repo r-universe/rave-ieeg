@@ -14,6 +14,12 @@
 [submodule "filearray"]
 	path = filearray
 	url = https://github.com/dipterix/filearray
+[submodule "hdf5lib"]
+	path = hdf5lib
+	url = https://github.com/cmmr/hdf5lib
+[submodule "hdf5r"]
+	path = hdf5r
+	url = https://github.com/dipterix/hdf5r
 [submodule "ieegio"]
 	path = ieegio
 	url = https://github.com/dipterix/ieegio
